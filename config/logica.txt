@@ -1,0 +1,19 @@
+1. ter as resposta para cada formulario
+2. comparar no arquivo html para acessar o link certo
+
+3. Abrir os links para cada resposta
+a. encontrar os campos (data e relatorio)
+b. preenchecer os campos com as respostas
+c. clicar no btn de salvar (submit) e ir para a proxima resposta
+
+
+
+------------------script
+
+1. acessar os .txt "resposta" e "links"
+a. buscar pelos titulos e subtitulos que se correlacionam para automatizar as respostas
+b. pegar as respostas data e relatorio
+c. acessar as paginas de acordo com os links (a verificaçao de mais cedo)
+d. preencher os campos correspondentes (data e relatorio)
+e. e fazer isso para todos os titulos e suuas respostas
+-----------------------------------------

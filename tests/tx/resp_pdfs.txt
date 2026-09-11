@@ -1,0 +1,50 @@
+titulo: 08. Ler o Livro do Clube de Leitura do ano em curso e escrever um parágrafo sobre o que mais lhe chamou atenção ou considerou mais importante.
+Data: 17/03/2024
+Relatorios: Leitura na unidade.
+nome: AHISTORIADAVIDA182007.pdf
+
+titulo: 09. Ler o livro do Clube de Leitura do ano em curso e escrever dois parágrafos sobre o que mais lhe chamou atenção ou considerou importante.
+Data: 17/03/2024 
+Relatorios: Leitura na unidade.
+nome: ALEMDAMAGIA192008.pdf
+
+titulo: 10. Ler o livro do Clube de Leitura do ano em curso e resumi-lo em uma página.
+Data: 17/03/2024 
+Relatorios: Leitura na unidade.
+nome: NOSBASTIDORESDASMIDIAS1102009.pdf
+
+titulo: 29. Ler e resumir três histórias de pioneiros adventistas. Contar essa história na reunião do Clube, no Culto JA ou na Escola Sabatina.
+Data: 17/08/2025
+Relatorios: Pesquisa sobre 3 pioneiros.
+nome: PioneirosdaIASD2292135.pdf
+
+titulo: 07. Escrever uma redação explicando como ser um bom cidadão no lar e na escola.
+Data: 17/08/2025
+Relatorios: Feito em debate juntamente com a liderança do Clube.
+nome: Serumbomcidadaonolarenaescola372144.pdf
+
+titulo: 09. Preparar uma lista contendo cinco sugestões de atividades recreativas para ajudar pessoas com necessidades específicas e colaborar na organização de uma destas atividades para essas pessoas.
+Data: 09/03/2025
+Relatorios: Em reunião com a liderança, trabalhamos o tema inclusão. Temos desbravadores que necessitam de atividades, provas adaptadas e temos sempre o cuidado de atender a todos em suas diferenças.
+nome: Atividades492162.pdf
+
+titulo: 06. Fazer uma apresentação, para alunos do Ensino Fundamental, sobre os oito remédios naturais dados por Deus.
+Data: 16/08/2025
+Relatorios: Participamos da Feira de Saúde da Igreja do Setor e apresentamos os 8 remédios.
+nome: 8remedios562184.pdf
+
+titulo: 14. Recapitular o estudo da criação e fazer um diário por sete dias registrando suas observações do que foi criado em cada dia correspondente.
+Data: 17/03/2024 
+Relatorios: Ok
+nome: DiáriodaCriacao7142205.pdf
+
+titulo: 05. Com um grupo de, no mínimo, quatro pessoas e com a presença um Conselheiro adulto experiente, andar pelo menos 20 quilômetros numa área rural ou deserta, incluindo uma noite ao ar livre ou em barraca. Planejar a expedição em detalhes antes da saída. Durante a caminhada, efetuar anotações sobre o terreno, flora e fauna, observados. Depois, usando as anotações, participar de uma discussão de grupo, dirigida por seu Conselheiro.
+Data: 16/08/2025
+Relatorios: Cumprido no acampamento do clube e caminhada.
+nome: Caminhada852223.pdf
+
+---- 11 do 1 (em duvida) ----
+titulo: 
+Data: 
+Relatorios: 
+nome: 

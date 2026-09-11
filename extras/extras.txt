@@ -1,0 +1,115 @@
+Código-Fonte e Estrutura de Projeto
+src, source, sources, code
+
+app, application
+
+main, core, base
+
+components, widgets, fragments
+
+includes, partials, modules
+
+lib, libs
+
+dist, out, build, release
+
+public, www, wwwroot
+
+controller, controllers, model, models, view, views
+
+routes, routing, pages
+
+class, classes
+
+Configuração e Metadados
+config, configs, configuration, settings
+
+.vscode, .vscode-test
+
+meta
+
+properties
+
+Ambientes Virtuais e Pacotes
+node_modules
+
+venv, .venv
+
+env, .env
+
+packages
+
+Assets e Recursos Visuais
+asset, assets
+
+static
+
+images, image, img, icons, ico, icon
+
+pictures, photos
+
+css, style, styles, stylesheet, stylesheets
+
+sass, scss
+
+less
+
+font, fonts
+
+audio, video
+
+Testes e CI/CD (Integração Contínua)
+test, tests, testing
+
+spec
+
+__tests__ (comum em JavaScript)
+
+.github
+
+.gitlab
+
+ci
+
+coverage
+
+Documentação
+doc, docs
+
+articles, post, posts
+
+Infraestrutura, API e Dados
+api
+
+client, server
+
+db, database, sql, data
+
+infra, infrastructure
+
+docker, .docker
+
+scripts, script
+
+Git (Controle de Versão)
+.git (geralmente oculto, mas tem um ícone próprio)
+
+githooks, hooks
+
+Linguagens e Frameworks Específicos
+javascript, js
+typescript, ts
+python, php, java, go, react, vue, angular
+
+Como Mudar ou Instalar Novos Temas de Ícones?
+Se você quiser ainda mais ícones ou um estilo diferente, pode facilmente instalar um novo tema:
+
+Vá para a aba de Extensões (ícone de blocos no menu lateral ou Ctrl+Shift+X).
+
+Procure por "Icon Theme".
+
+Instale um de sua preferência (o Material Icon Theme é o mais popular).
+
+Após a instalação, o VS Code perguntará se você deseja ativá-lo.
+
+Você também pode mudar a qualquer momento indo em: Arquivo > Preferências > Tema > Tema de Ícones de Arquivo.

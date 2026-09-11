@@ -1,0 +1,74 @@
+1. ter as resposta para cada formulario
+2. comparar no arquivo html para acessar o link certo
+
+3. Abrir os links para cada resposta
+a. encontrar os campos (data e relatorio)
+b. preenchecer os campos com as respostas
+c. clicar no btn de salvar (submit) e ir para a proxima resposta
+
+
+
+------------------script
+
+1. acessar os .txt "resposta" e "links"
+a. buscar pelos titulos e subtitulos que se correlacionam para automatizar as respostas
+b. pegar as respostas data e relatorio
+c. acessar as paginas de acordo com os links (a verificaçao de mais cedo)
+d. preencher os campos correspondentes (data e relatorio)
+e. e fazer isso para todos os titulos e suuas respostas
+-----------------------------------------
+
+
+Passo 1: Feche o Google Chrome
+Antes de rodar o script modificado, você precisa fechar completamente todas as janelas do seu navegador Google Chrome. Isso é muito importante para que o script consiga "pegar emprestado" o seu perfil.
+
+Passo 2: Encontre o Caminho do seu Perfil do Chrome
+Abra o seu Google Chrome normalmente.
+
+Digite chrome://version na barra de endereço e aperte Enter.
+
+Procure pela linha "Caminho do perfil" e copie todo o texto que vem depois. Vai ser algo parecido com isto:
+C:\Users\SeuUsuario\AppData\Local\Google\Chrome\User Data\Default
+
+Passo 3: Modifique o Script automatizar_respostas.py
+Abra o arquivo automatizar_respostas.py em um editor de texto.
+
+Localize a linha que inicia o Chrome (por volta da linha 88):
+
+Python
+
+# Inicializa o WebDriver do Chrome
+driver = webdriver.Chrome()
+Substitua essas duas linhas pelo código abaixo. Lembre-se de colar o caminho do seu perfil no lugar indicado.
+
+Python
+
+# --- Início da Modificação ---
+
+options = webdriver.ChromeOptions()
+
+# IMPORTANTE: Cole o caminho do seu perfil que você copiou do chrome://version
+# Lembre-se de manter a letra 'r' antes das aspas.
+caminho_do_perfil = r"COLOQUE_O_CAMINHO_DO_SEU_PERFIL_AQUI" 
+
+options.add_argument(f"user-data-dir={caminho_do_perfil}")
+
+# Inicializa o WebDriver do Chrome com as opções do seu perfil
+driver = webdriver.Chrome(options=options)
+
+# --- Fim da Modificação ---
+Exemplo de como deve ficar:
+Se o seu caminho for C:\Users\drago\AppData\Local\Google\Chrome\User Data\Default, o código ficará assim:
+
+Python
+
+    caminho_do_perfil = r"C:\Users\drago\AppData\Local\Google\Chrome\User Data\Default" 
+Depois de fazer essa alteração:
+
+Salve o arquivo automatizar_respostas.py.
+
+Feche todas as janelas do Chrome.
+
+Execute o script novamente.
+
+Agora, ele deverá abrir uma janela do Chrome já logada na sua conta, e o erro "Acesso inválido" não deve mais acontecer.
